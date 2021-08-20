@@ -1,2 +1,2 @@
 # eyeflow-sdk
-Python SDK for Eyeflow Apps
+Package for development of Eyeflow applications
